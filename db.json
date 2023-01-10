@@ -55,6 +55,34 @@
             "category":"Phyton",
             "link":"https://www.youtube.com/embed/FBLAV1SbJFk",
             "capa": "https://img.youtube.com/vi/FBLAV1SbJFk/maxresdefault.jpg"
+        },
+                {
+            "id":9,
+            "title":"Aprenda JAVASCRIPT - 5 MINUTOS",
+            "category":"JavaScript",
+            "link":"https://youtu.be/WRlfwBof66s",
+            "capa": "https://img.youtube.com/vi/WRlfwBof66s/maxresdefault.jpg"
+        },
+        {
+            "id":10,
+            "title":"REACT.JS Primeiros passos - 9 minutos",
+            "category":"React",
+            "link":"https://youtu.be/SQsR0KA-oew",
+            "capa": "https://img.youtube.com/vi/SQsR0KA-oew/maxresdefault.jpg"
+        },
+        {
+            "id":11,
+            "title":"VOU APRENDER TYPESCRIPT (3 motivos)",
+            "category":"TypeScript",
+            "link":"https://youtu.be/M57zuClvRbM",
+            "capa": "https://img.youtube.com/vi/M57zuClvRbM/maxresdefault.jpg"
+        },
+        {
+            "id":12,
+            "title":"Aprenda Python em 10min (para Iniciantes)",
+            "category":"Phyton",
+            "link":"https://youtu.be/4p7axLXXBGU",
+            "capa": "https://img.youtube.com/vi/4p7axLXXBGU/maxresdefault.jpg"
         }
 
     ]
